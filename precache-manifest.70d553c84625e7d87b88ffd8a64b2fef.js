@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/balance/static/js/runtime~main.38ec9ff5.js"
   },
   {
-    "revision": "42d6e59584e536bd136a65fab90e6f77",
+    "revision": "61a26ed22c5e87e0d5b2ad3c4cd179d6",
     "url": "/balance/index.html"
   }
 ];
